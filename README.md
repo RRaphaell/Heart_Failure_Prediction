@@ -1,6 +1,8 @@
 # Heart-Failure-Prediction
 It's about Kaggle dataset
 
+Images - it's a folder where are all pictures which I used in Jupiter
+
 # <span style="color:blue"><div align="center">**About This Dataset** <a  name="1"></a>
 
 Cardiovascular diseases (CVDs) are the number 1 cause of death globally, taking an estimated 17.9 million lives each year, which accounts for 31% of all deaths worlwide.
